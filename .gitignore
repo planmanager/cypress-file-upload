@@ -60,10 +60,11 @@ typings/
 # next.js build output
 .next
 
-dist/
+# push build
+# dist/
 
 .cache
-dist
+# dist
 example/cypress/videos
 example/cypress/screenshots
 
